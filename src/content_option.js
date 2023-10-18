@@ -124,7 +124,9 @@ const socialprofils = {
     linkedin: "https://www.linkedin.com/in/chuan-ming-ou-7623741a5/",
     twitter: "",
     instagram: "https://www.instagram.com/ivanoooouo/",
+    blog: "https://blog.ivanouo.one",
 };
+
 export {
     meta,
     dataabout,

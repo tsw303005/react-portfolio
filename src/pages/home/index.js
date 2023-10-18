@@ -56,6 +56,14 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
+                  <a href={require('../../assets/resume.pdf')} target = "_blank">
+                    <div id="button_p" className="ac_btn btn ">
+                      Resume
+                      <div className="ring one"></div>
+                      <div className="ring two"></div>
+                      <div className="ring three"></div>
+                    </div>
+                  </a>
                 </div>
               </div>
             </div>
